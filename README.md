@@ -1,5 +1,6 @@
 # AI application fundamentals
 Learn the fundamentals that are required to build an AI application.
+
 Project: Document QA tool (Basic RAG)
 
 ## Learning path
