@@ -2,7 +2,7 @@ from google import genai
 from google.genai import types
 from file_reader import read_file
 
-client = genai.Client(api_key="AIzaSyBR3kSjrltpGMnugys9jmiBjmWVkchWg9M")
+client = genai.Client(api_key="")
 
 def create_chats(file):
     doc_text = read_file(file)
