@@ -29,4 +29,10 @@ Learn the fundamentals that are required to build an AI application.
  - maintain chat history
  - stream the response 
 
+## Project -  QA Document tool
+ - Multi-turn conversational AI with persistent chat history
+ - Streaming responses for real-time output
+ - Tool calling for structured data extraction
+ - Support for .txt and .pdf files 
+
    
